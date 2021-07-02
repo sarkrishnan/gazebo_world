@@ -1,6 +1,6 @@
 # gazebo_world
 
-This is a project I made for my Robotics Software Engineer Nanodegree from Udacity
+This is a project I made for my Robotics Software Engineer Nanodegree from Udacity. It involves creating and visualizing a gazebo world with a personalized message displayed on the terminal. Gazebo is a simulator tool widely used in the robotics community. 
 
 # Quickstart
 
