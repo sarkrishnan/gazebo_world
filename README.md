@@ -1,9 +1,9 @@
 # gazebo_world
---------
+
 This is a project I made for my Robotics Software Engineer Nanodegree from Udacity
 
 # Quickstart
---------
+
 ## Requirement
 
 Please install [**__ROS Kinetic__**](http://wiki.ros.org/kinetic/Installation "ROS Kinetic Installation") (choose your platform. I have used Ubuntu which is ROS supported)
